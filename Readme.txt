@@ -1,0 +1,5 @@
+This program will ask the user to proide the name of the file with the spellbook information. Then the user will havve the option to sort the spells and spellbooks in a number of ways.
+
+1. Sort spellbooks by number of pages: If the user picks this option the books must be sorted in ascending order by number of pages. Once they are sorted, you should print/write to file the title of the book and the number of pages it has.
+2. Sort spells by effect: There are five types of spells: fire, bubble, memory_loss, death, poison. The spells with bubble as the effect should be listed first, followed by memory_loss, fire, poison, and death. Once they are sorted, you should print/write to file the spell name and its effect.
+3. Sort by average success rate of spells: You must create a list of books sorted by the average success rate of all the spells contained within the book. Once calculated, you should print/write to file the title of each applicable book and the corresponding average success rate. 
